@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100381679892",
+    "project_id": "oboo-bac7d",
+    "storage_bucket": "oboo-bac7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100381679892:android:a0e4cb1916565ab5712201",
+        "android_client_info": {
+          "package_name": "com.example.medics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4a3d8cqG03ht0P4a7hQBFgXiNeXDG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

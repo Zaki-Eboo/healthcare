@@ -1,0 +1,26 @@
+[
+    {
+        "key": "String",
+        "Number": 1,
+        "array": [
+            1,
+            2,
+            3
+        ],
+        "nested": {
+            "literals": true
+        }
+    },
+    {
+        "key": "String",
+        "Number": 1,
+        "array": [
+            1,
+            2,
+            3
+        ],
+        "nested": {
+            "literals": true
+        }
+    }
+]
